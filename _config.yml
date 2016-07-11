@@ -1,0 +1,14 @@
+layout_spectrum: 0.2481344270054251
+typography_spectrum: 0.8781653491314501
+color:
+  brandStrength: 0.26726543228141963
+  lightness: 0.8977540892083198
+  saturation: 0.5214287978596985
+  rhythmicContrast: 0.5098083910997957
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Ryan Test Site
